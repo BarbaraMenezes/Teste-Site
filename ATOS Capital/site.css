@@ -1,0 +1,46 @@
+
+.barra2{
+	background-color: black;
+	height: 71px;
+	width:1920px;
+	aling-itens: center;
+	justify-content: center;
+	align-content: center;
+	align-self: center;
+	position: relative;	
+	margin: auto;
+
+}
+.atos{
+	align-items: center;
+	padding-left: 345px;
+	padding-right: 24px;	
+}											
+.sap{
+	padding-left: 23px;
+	padding-right:187px;
+	}
+
+.solucoes{
+	padding-left: 17px;
+	padding-right:17px;
+	}
+.clientes{
+	padding-left: 17px;
+	padding-right:17px;
+}
+.contato{
+	padding-left: 17px;
+	
+}
+
+#bandeira-inicial{
+	padding-left: 109px ;
+	display: inline-flex;
+}
+#bandeira-final{
+ 	padding-right:79px;
+ 	display: inline-flex;
+
+}
+
